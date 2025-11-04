@@ -14,7 +14,6 @@ A clean and minimalist student profile webpage built with pure HTML5 and CSS3. T
   - Black & White for text and backgrounds
 - **Typography**: Montserrat font family
 - **Fully Responsive** - Works seamlessly on desktop, tablet, and mobile devices
-- **Smooth Animations** - Hover effects on information cards
 
 ## 📁 Project Structure
 ```
